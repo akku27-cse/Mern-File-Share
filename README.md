@@ -133,7 +133,7 @@ app.get("/user/validateToken", (req, res) => {
 ## Fronted Install
 1.React
 ```shell
-npx i create-react-app userauth
+npx create-react-app userauth
 ```
 2.React-router-dom
 ```shell
