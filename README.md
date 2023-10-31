@@ -1,3 +1,6 @@
+#Project View :
+First Upload the file by click the Uploaded button. After uppload the file it generate the link . shrae this link to another person for download this file.
+
 # Mern-File-Share
 1.Fron view
 ![image](https://github.com/akku27-cse/Mern-File-Share/assets/115920400/008ec3bd-0895-441c-8a35-f92894d69d29)
